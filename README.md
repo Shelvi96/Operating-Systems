@@ -1,2 +1,1 @@
-# PROI2
 # OperatingSystems
